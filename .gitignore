@@ -1,0 +1,4 @@
+*.pyc
+dataset/*
+presentation_images/*
+temp.ipynb
